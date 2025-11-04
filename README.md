@@ -1,5 +1,20 @@
 # Agent-Resource
 This repository offers a curated collection of research and development resources in the field of Agentic AI
+
+## 🧭 Table of Contents
+
+- [Agent-Resource](#agent-resource)
+  - [📚 Resource List](#-resource-list)
+    - [Agent Collaboration](#agent-collaboration)
+    - [Agent Construction](#agent-construction)
+    - [Agent Evolution](#agent-evolution)
+    - [Applications](#applications)
+    - [Datasets & Benchmarks](#datasets--benchmarks)
+    - [Ethics](#ethics)
+    - [Security](#security)
+    - [Survey](#survey)
+    - [Tools](#tools)
+
 ## 📚 Resource List
 
 ### Agent Collaboration
